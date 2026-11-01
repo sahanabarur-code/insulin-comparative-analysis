@@ -1,5 +1,21 @@
 # Comparative Sequence Analysis of Insulin Across Six Species: Understanding Why Pig Insulin Was Preferred Over Cattle Insulin
 
+## Table of Contents
+
+1. [Research Question](#1-research-question)
+2. [Data Collection](#2-data-collection)
+3. [Methods](#3-methods)
+4. [Results](#4-results)
+   - [Finding 1: Sequence Length Comparison](#finding-1-sequence-length-comparison)
+   - [Finding 2: Full Precursor Sequence Identity](#finding-2-full-precursor-sequence-identity)
+   - [Finding 3: Active Hormone Comparison](#finding-3-active-hormone-comparison)
+   - [Finding 4: Conserved Amino Acids](#finding-4-conserved-amino-acids)
+   - [Finding 5: Cysteine and Hydrophobicity Analysis](#finding-5-cysteine-and-hydrophobicity-analysis)
+5. [Conclusion](#5-conclusion)
+6. [Limitations](#6-limitations)
+7. [References](#7-references)
+
+
 ## 1. Research Question
 
 How similar is insulin across six different species, and what do these sequence similarities reveal about the evolutionary conservation of insulin? This project also investigates why pig insulin was preferred over cattle insulin for treating human diabetes, based on differences in their amino acid sequences.
