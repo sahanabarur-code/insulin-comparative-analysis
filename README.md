@@ -1,5 +1,5 @@
 # Comparative Sequence Analysis of Insulin Across Six Species:
-##Understanding Why Pig Insulin Was Preferred Over Cattle Insulin
+## Understanding Why Pig Insulin Was Preferred Over Cattle Insulin
 
 ## Table of Contents
 
